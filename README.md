@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... Building Blocks!
+- 🔭 I’m currently working as a ... Product Marketer. @ Tru Earth!
 - 🌱 I’m currently learning ... React & Node.js
 - 💬 Ask me about ... https://courseratings.ca
 
