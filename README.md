@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a ... Product Marketer. @ Tru Earth!
+- 🔭 I’m currently working as a ... Augmented BI Solutions Management Intern @ SAP!
 - 🌱 I’m currently learning ... React & Node.js
 - 💬 Ask me about ... https://courseratings.ca
 
