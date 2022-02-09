@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a ... Augmented BI Solutions Management Intern @ SAP!
-- 🌱 I’m currently learning ... https://www.c0d3.com/curriculum
+- 🌱 I’m currently learning ... JavaScript on https://www.c0d3.com/curriculum
 - 💬 Ask me about ... https://courseratings.ca
 
 <!--
